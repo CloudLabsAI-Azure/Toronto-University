@@ -18,4 +18,14 @@ Please follow the below steps to start/stop the VM:
    ![](images/reosurces-tab.jpg "Resources tab")
    
 
+## How to Access Documentation
 
+
+In your browser navigate to the URL https://play.cyberstart.com.
+
+Login with the username and password used during your registration process.
+
+Select Field Manual to access the cybersecurity resources for your scenario:
+
+
+From here you have access to readings, videos, and challenges to expand your cybersecurity knowledge.
