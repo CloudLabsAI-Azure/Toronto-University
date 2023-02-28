@@ -27,5 +27,6 @@ Login with the username and password used during your registration process.
 
 Select Field Manual to access the cybersecurity resources for your scenario:
 
+   ![](images/cyberplay.jpg "Resources tab")
 
 From here you have access to readings, videos, and challenges to expand your cybersecurity knowledge.
