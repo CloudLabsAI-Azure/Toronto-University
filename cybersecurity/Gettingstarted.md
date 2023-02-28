@@ -23,10 +23,10 @@ Please follow the below steps to start/stop the VM:
 
 In your browser navigate to the URL https://play.cyberstart.com.
 
-Login with the username and password used during your registration process.
+1. Login with the username and password used during your registration process.
 
-Select Field Manual to access the cybersecurity resources for your scenario:
+2. Select Field Manual to access the cybersecurity resources for your scenario:
 
    ![](images/cyberplay.jpg "Resources tab")
 
-From here you have access to readings, videos, and challenges to expand your cybersecurity knowledge.
+3. From here you have access to readings, videos, and challenges to expand your cybersecurity knowledge.
